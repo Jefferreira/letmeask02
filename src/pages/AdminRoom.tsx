@@ -25,7 +25,7 @@ type RoomParams = {
 }
 
 export function AdminRoom() {
-    //const { user } = useAuth();
+
 
     const params = useParams<RoomParams>();
 
